@@ -18,3 +18,7 @@
 - [ ] code analyze ios
 - [ ] Build robot ช้า 1000 testcaes
 - [ ] การจัดการ robot scrpit
+
+* หมายเหตุ
+- [ ] อยู่ใน list
+- [x] ทดลองทำและเขียน blog
