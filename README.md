@@ -1,4 +1,7 @@
-## Outline
+## Goal
+Share knowledge from reading "Addison.Wesley.Continuous.Integration"
+
+## Topics
 
 - [ ] Why we use CI
     - [ ] What's problem before CI?
