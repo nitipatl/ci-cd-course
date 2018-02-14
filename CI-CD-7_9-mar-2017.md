@@ -13,6 +13,7 @@
 
 ### คำถามวันที่ 2
 - [ ] selenium grid
+- [ ] การทำ jenkins cluster
 
 ### คำถามวันที่ 1
 - [ ] code analyze ios
