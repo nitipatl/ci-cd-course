@@ -1,0 +1,1 @@
+export default (name) => (name ? `Hi, ${name}` : `Hello, Anonymous`)
