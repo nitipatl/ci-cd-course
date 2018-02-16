@@ -1,1 +1,1 @@
-export default (name) => (name ? `Hi, ${name}` : `Hello, Anonymous`)
+export default (name) => (name ? `Hii, ${name}` : `Hello, Anonymous`)
