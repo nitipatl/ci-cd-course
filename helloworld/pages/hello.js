@@ -1,4 +1,5 @@
 import React from 'react'
+import _greeting from '../libs/greeting'
 export default ({ url: { query: { name } } }) => (
-  <p>Hi, { name }</p>
+  <p>{ _greeting(name) }</p>
 )
