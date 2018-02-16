@@ -7,23 +7,23 @@ Share knowledge from reading "Addison.Wesley.Continuous.Integration"
 
 ## Topics
 
-- [ ] Why we use CI
-    - [ ] What's problem before CI?
-    - [ ] Reduces which risks?
-    - [ ] Values of CI
-- [ ] What's CI
-    - [ ] What's build? 
-    - [ ] What's code?
-    - [ ] What's repository?
-    - [ ] What's environment? / how to config
-    - [ ] What's testing
-- [ ] How we start to build own CI
-    - [ ] practices checklist
-    - [ ] 4 steps to start / identify => build => share => continue
+- [x] Why we use CI
+    - [x] What's problem before CI?
+    - [x] Reduces which risks?
+    - [x] Values of CI
+- [x] What's CI
+    - [x] What's build? 
+    - [x] What's code?
+    - [x] What's repository?
+    - [x] What's environment? / how to config
+    - [x] What's testing
+- [x] How we start to build own CI
+    - [x] practices checklist
+    - [x] 4 steps to start / identify => build => share => continue
 - [ ] Next step
     - [ ] data intregation
-    - [ ] testing
-    - [ ] code analyze and measurement
+    - [x] testing
+    - [x] code analyze and measurement
     - [ ] CD
 
 ## Agenda
