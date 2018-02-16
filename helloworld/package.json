@@ -3,6 +3,7 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
+    "static": "next build && next export",
     "test": "NODE_ENV=test jest"
   },
   "dependencies": {
