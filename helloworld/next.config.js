@@ -3,7 +3,7 @@ module.exports = {
     return {
       '/': { page: '/' },
       '/hello': { page: '/hello' },
-      '/hello/taey': { page: '/hello' },
+      '/hello/taey': { page: '/hello', query: { name: 'Taey' } },
     }
   }
 }
