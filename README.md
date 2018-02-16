@@ -1,6 +1,10 @@
 ## Goal
 Share knowledge from reading "Addison.Wesley.Continuous.Integration"
 
+## Slide
+
+[Link](https://docs.google.com/presentation/d/1WFv9XRIxruBK8UHdAVQ8hrz9pMWSn9D8-EEpgYPQZAE/edit?usp=sharing)
+
 ## Topics
 
 - [ ] Why we use CI
